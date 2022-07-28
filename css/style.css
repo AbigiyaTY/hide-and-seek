@@ -1,0 +1,19 @@
+body {
+    background-color: #000;
+    color: white;
+}
+
+h1 {
+    align-items: center;
+}
+
+form #name,
+form #email {
+    height: 48px;
+    width: 565px;
+}
+
+form textarea {
+    width: 566px;
+    height: 150px;
+}
